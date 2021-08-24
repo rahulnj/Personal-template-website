@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #0078ff;
+  color: #000000;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -40,7 +40,7 @@ a:hover {
 
 .color-a {
   text-decoration: none;
-  color: #0078ff;
+  color: #000000;
 }
 
 .color-d {
@@ -63,7 +63,7 @@ a:hover {
 .box-shadow-a,
 .button:hover {
   text-decoration: none;
-  box-shadow: 0 0 0 4px #cde1f8;
+  box-shadow: 0 0 0 4px #999999;
 }
 
 .display-5 {
@@ -99,7 +99,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 .overlay-mf {
@@ -227,14 +227,14 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px #000000;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: #000000;
   color: #fff;
-  box-shadow: 0 0 0 3px #cde1f8;
+  box-shadow: 0 0 0 3px #999999;
   transition: all 500ms ease;
 }
 
@@ -256,7 +256,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #0078ff;
+  color: #000000;
   margin-right: 10px;
 }
 
@@ -269,7 +269,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px #000000;
   display: block;
 }
 
@@ -287,15 +287,15 @@ a:hover {
   width: 18px;
   height: 7px;
   margin: 5px 5px;
-  background: #cde1f8;
-  border: 0px solid #cde1f8;
+  background: #999999;
+  border: 0px solid #999999;
   display: block;
   transition: all 0.6s ease-in-out;
   cursor: pointer;
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #cde1f8;
+  background-color: #999999;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
@@ -314,7 +314,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #0078ff;
+  background-color: #000000;
   opacity: 0.7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -338,7 +338,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0078ff;
+  background: #000000;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -379,7 +379,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #0078ff;
+  border-top: 6px solid #000000;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -433,9 +433,9 @@ a:hover {
 
 .button-a {
   text-decoration: none;
-  background-color: #0078ff;
+  background-color: #000000;
   color: #fff;
-  border-color: #cde1f8;
+  border-color: #999999;
 }
 
 .button-big {
@@ -594,7 +594,7 @@ a:hover {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover > a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .navbar .dropdown:hover > ul {
@@ -696,7 +696,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover > a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .navbar-mobile .getstarted {
@@ -730,7 +730,7 @@ a:hover {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover > a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -810,15 +810,15 @@ a:hover {
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: #000000;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
-  color: #cde1f8;
+  color: #999999;
 }
 
 .hero-single .breadcrumb .breadcrumb-item.active {
-  color: #cde1f8;
+  color: #999999;
 }
 
 .hero-single .breadcrumb a {
@@ -853,7 +853,7 @@ a:hover {
 }
 
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: #999999;
   margin: 0.5rem 0 1.2rem 0;
   border-radius: 0;
   height: 0.7rem;
@@ -861,7 +861,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -878,8 +878,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
-  box-shadow: 0 0 0 10px #cde1f8;
+  background-color: #000000;
+  box-shadow: 0 0 0 10px #999999;
 }
 
 .service-box .service-ico {
@@ -932,7 +932,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.5;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px #999999;
 }
 
 .counter-num .counter {
@@ -978,7 +978,7 @@ a:hover {
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #0078ff;
+  color: #000000;
   float: right;
 }
 
@@ -1018,14 +1018,14 @@ a:hover {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0078ff;
+  border: 1px solid #000000;
 }
 
 .portfolio-details
   .portfolio-details-slider
   .swiper-pagination
   .swiper-pagination-bullet-active {
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 .portfolio-details .portfolio-info {
@@ -1092,7 +1092,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: #000000;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -1201,7 +1201,7 @@ a:hover {
 
 .php-email-form input:focus,
 .php-email-form textarea:focus {
-  border-color: #0078ff;
+  border-color: #000000;
 }
 
 .php-email-form input {
@@ -1214,7 +1214,7 @@ a:hover {
 }
 
 .php-email-form button[type='submit'] {
-  background: #0078ff;
+  background: #000000;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1271,7 +1271,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #0078ff;
+  background-color: #000000c4;
   border-radius: 4px;
 }
 
@@ -1339,7 +1339,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid #000000;
   margin-top: 1rem;
 }
 
@@ -1349,7 +1349,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -1357,7 +1357,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid #000000;
   padding: 18px;
   font-style: italic;
 }
@@ -1394,7 +1394,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .box-comments .list-comments span {
@@ -1410,7 +1410,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #0078ff;
+  border-left: 5px solid #000000;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1427,7 +1427,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #0078ff;
+  background-color: #000000;
   top: 20px;
 }
 
@@ -1438,8 +1438,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #0078ff;
-  border-color: #0078ff;
+  background-color: #000000;
+  border-color: #000000;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1447,7 +1447,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #0078ff;
+  background-color: #000000;
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.5rem;
   border-radius: 15px;

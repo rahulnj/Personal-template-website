@@ -168,7 +168,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #000000;
   margin: 0 auto;
 }
 
@@ -973,7 +973,7 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: #000000;
 }
 
 .work-content .w-like {
@@ -983,7 +983,7 @@ a:hover {
 }
 
 .work-content .w-like a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .work-content .w-like .num-like {

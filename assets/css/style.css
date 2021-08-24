@@ -186,7 +186,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #000000;
   width: 100px;
   bottom: -12px;
 }

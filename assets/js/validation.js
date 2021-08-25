@@ -44,13 +44,12 @@ $('#phone').on('input' ,function(){
 $('#message').blur(function(){
     var message=$(this).val()
     if (message.length<5){
-        console.log(submitmessage);
         $("#error-mes").html("Please enter more than 5 characters");
          submitmessage=false;
     }else{
         $("#error-mes").html(" ");
          submitmessage=true;
-        console.log(submitname,submitemail,submitphone,submitmessage);
+       
     }
 })
 
@@ -58,7 +57,7 @@ $('#message').blur(function(){
 
     
 function mail() {
-    console.log(submitname,submitemail,submitphone,submitmessage);
+
     if(submitname==true && submitphone==true && submitemail==true && submitmessage==true)
     {$.ajax({
          url:"https://script.google.com/macros/s/AKfycbw79b_crwItgWTVdvNaUylzUKAdVMOJcla-pHZm/exec",
@@ -108,31 +107,4 @@ function mail() {
 
 
 
-// $('#submit-form').submit((e)=>{
-// e.preventDefault()
 
-
-//     if(submitname==true && submitphone==true && submitmail==true && submitmessage==true)
-//     {$.ajax({
-//          url:"https://script.google.com/macros/s/AKfycbw79b_crwItgWTVdvNaUylzUKAdVMOJcla-pHZm/exec",
-//          data:$("#submit-form").serialize(),
-//          method:"post",
-//          success:function (response){
-//              alert("Form submitted successfully")
-//              window.location.reload()
-//              //window.location.href="https://google.com"
-//          },
-//          error:function (err){
-//              alert("Something Error")
-
-//          }
-//      })
-//     } else{
-//         $("#error-name").html("Please Enter this field");
-//         $("#error-email").html("Please Enter this field");
-//         $("#error-phone").html("Please Enter this field");
-//         $("#error-mes").html("Please Enter this field");
-
-//      }
-
-// })
